@@ -1,0 +1,112 @@
+body {
+	width: 100%;
+	height: 100%;
+}
+
+section {
+	padding-top: 25px;
+	background-color: #f6f6f6
+}
+
+
+nav, h2,h3, .quote-para, .why-us, footer {
+	text-align:center;
+}
+/* Navigation */
+
+img {
+	margin-top: 20px;
+}
+.call-now{
+	text-transform: uppercase;
+	color: #E5302A;
+}
+
+#phone-no {
+	background-color: red;
+	color: white;
+	text-decoration: none;
+	
+}
+
+#phone-no:hover {
+	text-decoration: underline;
+}
+
+/* Heading */
+
+.main-head {
+	color: #E54E17;
+}
+
+.consultation{
+	margin-bottom: 0;
+	padding-bottom: 20px;
+}
+
+/* Video */
+
+iframe {
+	margin-top: 42px;
+}
+
+.video-section{
+	padding-bottom: 20px;
+}
+
+/* Form */
+
+.form {
+	padding-left: 100px;
+}
+
+.form-head {
+	padding-left: 0;
+}
+.form-control {
+	width: 50%;
+}
+ 
+ .btn {
+ 	color: white;
+ 	background-color: #c92924;
+ 	padding: 6px 47px;
+ }
+
+ .btn:hover {
+ 	color: white;
+ 	background-color: #E5302A;
+ }
+/*Quotes*/
+
+.quotes{
+	background-color: #151515;
+}
+
+.quote-para {
+	color: white;
+	padding: 30px 20px;
+}
+
+/* Why Us? */
+ul {
+	list-style: none;
+	line-height: 30.5px;
+	padding-bottom: 15px;
+}
+
+/* Footer */
+footer {
+	color: white;
+	background-color: #1a1a1a;
+}
+
+footer p {
+	margin: 0;
+	padding: 25px 0;
+}
+
+#bbb-logo {
+	padding: 0 20px 25px 10px;
+}
+
